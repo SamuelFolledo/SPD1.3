@@ -4,13 +4,9 @@ Developed to help users decide which stocks to buy, to hold, or to sell. Suggest
 
 
 ## Live Demo
-__Login Flow__             |  __Register Flow__
-:-------------------------:|:-------------------------:
-<img src="https://github.com/imthaghost/spyyder/blob/samuel/mobile/mobile/ZeusApp/static/gif/loginFlow.gif" width="421" height="864">  |  <img src="https://github.com/imthaghost/spyyder/blob/samuel/mobile/mobile/ZeusApp/static/gif/registerFlow.gif" width="421" height="864">
-
-
-## Onboarding Demo
-<img src="https://github.com/imthaghost/spyyder/blob/samuel/mobile/mobile/ZeusApp/static/gif/quizFlow.gif" width="468" height="960">
-
+  **Register Flow**  |  **Onboarding**  |  **Login Flow**             
+:-------------------------:|:-------------------------:|:-------------------------:|
+  <img src="https://github.com/SamuelFolledo/SPD1.3/blob/master/FinalProject/mobile/ZeusApp/static/gif/registerFlow.gif" width="325" height="667">  |  <img src="https://github.com/SamuelFolledo/SPD1.3/blob/master/FinalProject/mobile/ZeusApp/static/gif/quizFlow.gif" width="325" height="667">  |  <img src="https://github.com/SamuelFolledo/SPD1.3/blob/master/FinalProject/mobile/ZeusApp/static/gif/loginFlow.gif" width="325" height="667">
+  
 
 Licensed under [GNU Lesser General Public License v3.0](LICENSE)
