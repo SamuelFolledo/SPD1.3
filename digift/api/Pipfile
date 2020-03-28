@@ -1,0 +1,24 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+autopep8 = "*"
+
+[packages]
+flask = "*"
+python-dotenv = "*"
+flask-script = "*"
+pymongo = "*"
+flask-restful = "*"
+pyjwt = "*"
+bcrypt = "*"
+uuid = "*"
+flask-session = "*"
+dkimpy = "*"
+alpha-vantage = "*"
+pandas = "*"
+
+[requires]
+python_version = "3.7"
