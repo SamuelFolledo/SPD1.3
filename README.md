@@ -8,7 +8,7 @@ Spyyder is a cross platform stocks trading application powered by machine learni
 ## Live Demo
   **Register Flow**  |  **Onboarding**  |  **Login Flow**             
 :-------------------------:|:-------------------------:|:-------------------------:|
-  <img src="https://github.com/SamuelFolledo/SPD1.3/blob/master/FinalProject/mobile/ZeusApp/static/gif/registerFlow.gif" width="250" height="513">  |  <img src="https://github.com/SamuelFolledo/SPD1.3/blob/master/FinalProject/mobile/ZeusApp/static/gif/quizFlow.gif" width="250" height="513">  |  <img src="https://github.com/SamuelFolledo/SPD1.3/blob/master/FinalProject/mobile/ZeusApp/static/gif/loginFlow.gif" width="250" height="513">
+  <img src="https://github.com/SamuelFolledo/SPD1.3/blob/master/FinalProject/mobile/ZeusApp/static/gif/registerFlow.gif" width="265" height="543">  |  <img src="https://github.com/SamuelFolledo/SPD1.3/blob/master/FinalProject/mobile/ZeusApp/static/gif/quizFlow.gif" width="265" height="543">  |  <img src="https://github.com/SamuelFolledo/SPD1.3/blob/master/FinalProject/mobile/ZeusApp/static/gif/loginFlow.gif" width="265" height="543">
 
 ### Course Links
 - [Tracker](https://docs.google.com/spreadsheets/d/1KyZrkcRPUtTm_1rrklYrz5lcV2O2flwi2yKYM4w9-ig/edit?pli=1#gid=0)
