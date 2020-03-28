@@ -4,8 +4,7 @@ https://make-school-courses.github.io/SPD-1.3-Team-Software-Project/#/
 ## [Final Project: Spyyder](FinalProject)
 Spyyder is a cross platform stocks trading application powered by machine learning and multiple web scrapers which **helps user decide which stocks to buy, hold, or sell** with personalized portfolio.
 
-### Mobile App Demo by Samuel P. Folledo
-## Live Demo
+## Mobile App Live Demo by Samuel P. Folledo
   **Register Flow**  |  **Onboarding**  |  **Login Flow**             
 :-------------------------:|:-------------------------:|:-------------------------:|
   <img src="https://github.com/SamuelFolledo/SPD1.3/blob/master/FinalProject/mobile/ZeusApp/static/gif/registerFlow.gif" width="270" height="554">  |  <img src="https://github.com/SamuelFolledo/SPD1.3/blob/master/FinalProject/mobile/ZeusApp/static/gif/quizFlow.gif" width="270" height="554">  |  <img src="https://github.com/SamuelFolledo/SPD1.3/blob/master/FinalProject/mobile/ZeusApp/static/gif/loginFlow.gif" width="270" height="554">
